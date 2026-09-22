@@ -1,0 +1,3 @@
+# Changelog
+
+- 2026-09-21: small improvements
